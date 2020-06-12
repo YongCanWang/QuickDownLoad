@@ -27,6 +27,12 @@ public class QuickDownLoadManager {
     }
 
 
+    public void setWorkPoolMax(int max) {
+        ThreadPoolManager.getInstance().setCorePoolSize(max);
+    }
+
+
+
     public static class State {
         public static final int STATE_NONE        = 0;//未下载
         public static final int STATE_WAITING     = 1;//等待中，任务创建并添加到线程池，但是run方法没有执行

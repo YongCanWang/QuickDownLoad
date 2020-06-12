@@ -17,10 +17,10 @@ import java.util.concurrent.TimeUnit;
 public class ThreadPoolManager {
     private static BlockingQueue<Runnable>  workQueue         = new LinkedBlockingQueue<Runnable>();
     private static RejectedExecutionHandler handler           = new ThreadPoolExecutor.AbortPolicy();
-    private static int                corePoolSize    = 3;
-    private static int                maximumPoolSize = 5;
-    private static int                keepAliveTime   = 2;
-    private static ThreadPoolExecutor threadPoolExecutor;
+    private static int                      corePoolSize      = 3;
+    private static int                      maximumPoolSize   = 5;
+    private static int                      keepAliveTime     = 2;
+    private static ThreadPoolExecutor       threadPoolExecutor;
     private static ThreadPoolManager        threadPoolManager = new ThreadPoolManager();
 
     private ThreadPoolManager() {
