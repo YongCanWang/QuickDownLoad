@@ -1,0 +1,2 @@
+include ':app', ':libandroid-quickdownload'
+rootProject.name='QuickDownLoad'

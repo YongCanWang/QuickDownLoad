@@ -1,0 +1,855 @@
+{
+  "datastore": [
+    {
+        "name": "基础数据",
+        "dataId": "cn.base",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/base.zip",
+                        "md5": "",
+                        "size": 132971750,
+                        "localPath": "cn/base.zip",
+                        "tags": "*",
+                        "tables": [
+                            "cn/base.dat",
+                            "cn/cmr.db"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "北京",
+        "dataId": "cn.0beijing",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/0beijing.zip",
+                        "md5": "",
+                        "size": 32191841,
+                        "localPath": "cn/0beijing.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/0beijing.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "上海",
+        "dataId": "cn.0shanghai",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/0shanghai.zip",
+                        "md5": "",
+                        "size": 31174407,
+                        "localPath": "cn/0shanghai.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/0shanghai.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "重庆",
+        "dataId": "cn.1chongqing",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/1chongqing.zip",
+                        "md5": "",
+                        "size": 42952391,
+                        "localPath": "cn/1chongqing.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/1chongqing.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "天津",
+        "dataId": "cn.1tianjin",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/1tianjin.zip",
+                        "md5": "",
+                        "size": 17768975,
+                        "localPath": "cn/1tianjin.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/1tianjin.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "广东",
+        "dataId": "cn.2guangdong",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/2guangdong.zip",
+                        "md5": "",
+                        "size": 132349530,
+                        "localPath": "cn/2guangdong.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/2guangdong.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "浙江",
+        "dataId": "cn.2zhejiang",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/2zhejiang.zip",
+                        "md5": "",
+                        "size": 83049310,
+                        "localPath": "cn/2zhejiang.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/2zhejiang.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "安徽",
+        "dataId": "cn.anhui",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/anhui.zip",
+                        "md5": "",
+                        "size": 64118420,
+                        "localPath": "cn/anhui.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/anhui.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "澳门",
+        "dataId": "cn.aomen",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/aomen.zip",
+                        "md5": "",
+                        "size": 1734652,
+                        "localPath": "cn/aomen.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/aomen.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "福建",
+        "dataId": "cn.fujian",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/fujian.zip",
+                        "md5": "",
+                        "size": 46008710,
+                        "localPath": "cn/fujian.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/fujian.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "甘肃",
+        "dataId": "cn.gansu",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/gansu.zip",
+                        "md5": "",
+                        "size": 31973503,
+                        "localPath": "cn/gansu.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/gansu.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "广西",
+        "dataId": "cn.guangxi",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/guangxi.zip",
+                        "md5": "",
+                        "size": 57864361,
+                        "localPath": "cn/guangxi.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/guangxi.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "贵州",
+        "dataId": "cn.guizhou",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/guizhou.zip",
+                        "md5": "",
+                        "size": 46419197,
+                        "localPath": "cn/guizhou.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/guizhou.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "海南",
+        "dataId": "cn.hainan",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/hainan.zip",
+                        "md5": "",
+                        "size": 13186015,
+                        "localPath": "cn/hainan.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/hainan.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "河北",
+        "dataId": "cn.hebei",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/hebei.zip",
+                        "md5": "",
+                        "size": 82287732,
+                        "localPath": "cn/hebei.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/hebei.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "黑龙江",
+        "dataId": "cn.heilongjiang",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/heilongjiang.zip",
+                        "md5": "",
+                        "size": 38545023,
+                        "localPath": "cn/heilongjiang.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/heilongjiang.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "河南",
+        "dataId": "cn.henan",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/henan.zip",
+                        "md5": "",
+                        "size": 84332394,
+                        "localPath": "cn/henan.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/henan.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "湖北",
+        "dataId": "cn.hubei",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/hubei.zip",
+                        "md5": "",
+                        "size": 73390386,
+                        "localPath": "cn/hubei.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/hubei.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "湖南",
+        "dataId": "cn.hunan",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/hunan.zip",
+                        "md5": "",
+                        "size": 77251551,
+                        "localPath": "cn/hunan.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/hunan.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "江苏",
+        "dataId": "cn.jiangsu",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/jiangsu.zip",
+                        "md5": "",
+                        "size": 115462827,
+                        "localPath": "cn/jiangsu.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/jiangsu.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "江西",
+        "dataId": "cn.jiangxi",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/jiangxi.zip",
+                        "md5": "",
+                        "size": 52307618,
+                        "localPath": "cn/jiangxi.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/jiangxi.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "吉林",
+        "dataId": "cn.jilin",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/jilin.zip",
+                        "md5": "",
+                        "size": 34050331,
+                        "localPath": "cn/jilin.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/jilin.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "辽宁",
+        "dataId": "cn.liaoning",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/liaoning.zip",
+                        "md5": "",
+                        "size": 54885417,
+                        "localPath": "cn/liaoning.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/liaoning.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "内蒙古",
+        "dataId": "cn.neimenggu",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/neimenggu.zip",
+                        "md5": "",
+                        "size": 73699009,
+                        "localPath": "cn/neimenggu.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/neimenggu.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "宁夏",
+        "dataId": "cn.ningxia",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/ningxia.zip",
+                        "md5": "",
+                        "size": 14532037,
+                        "localPath": "cn/ningxia.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/ningxia.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "青海",
+        "dataId": "cn.qinghai",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/qinghai.zip",
+                        "md5": "",
+                        "size": 11516727,
+                        "localPath": "cn/qinghai.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/qinghai.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "陕西",
+        "dataId": "cn.shan3xi",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/shan3xi.zip",
+                        "md5": "",
+                        "size": 58500755,
+                        "localPath": "cn/shan3xi.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/shan3xi.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "山东",
+        "dataId": "cn.shandong",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/shandong.zip",
+                        "md5": "",
+                        "size": 123755667,
+                        "localPath": "cn/shandong.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/shandong.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "山西",
+        "dataId": "cn.shanxi",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/shanxi.zip",
+                        "md5": "",
+                        "size": 49290430,
+                        "localPath": "cn/shanxi.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/shanxi.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "四川",
+        "dataId": "cn.sichuan",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/sichuan.zip",
+                        "md5": "",
+                        "size": 88280498,
+                        "localPath": "cn/sichuan.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/sichuan.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "香港",
+        "dataId": "cn.xianggang",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/xianggang.zip",
+                        "md5": "",
+                        "size": 7892611,
+                        "localPath": "cn/xianggang.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/xianggang.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "新疆",
+        "dataId": "cn.xinjiang",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/xinjiang.zip",
+                        "md5": "",
+                        "size": 47938533,
+                        "localPath": "cn/xinjiang.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/xinjiang.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "西藏",
+        "dataId": "cn.xizang",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/xizang.zip",
+                        "md5": "",
+                        "size": 11569750,
+                        "localPath": "cn/xizang.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/xizang.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "云南",
+        "dataId": "cn.yunnan",
+        "version": 15,
+        "releaseDate": "2018/03/08",
+        "versionDescription": "2018春季增强版",
+        "releaseNotes": "更新四维数据到2018春季增强版",
+        "updatePaths": [
+            {
+                "fromVersion": -1,
+                "fileList": [
+                    {
+                        "url": "http://192.0.0.31:81/offline_data/yunnan.zip",
+                        "md5": "",
+                        "size": 66100007,
+                        "localPath": "cn/yunnan.zip",
+                        "tags": "vip",
+                        "tables": [
+                            "cn/yunnan.dat"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+  ]
+}
