@@ -48,12 +48,12 @@ public class DownloadTask implements Runnable, OnNetRequestListener {
     @Override
     public void onResponse(Response response) {
         ResponseBody body = response.body();
-        long contentLength = body.contentLength();
-        downLoadInfo.setSize(contentLength);
         if (body == null)
             return;
         if (onDownloadEvent != null)
             onDownloadEvent.stateChange(Constant.STATE_START, downLoadInfo);
+        long contentLength = body.contentLength();
+        downLoadInfo.setSize(contentLength);
         File file = new File(downLoadInfo.path);
         if (!file.exists())
             file.mkdir();
